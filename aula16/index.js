@@ -1,0 +1,12 @@
+const alunos = ['Luiz', 'Maria', 'João'];
+console.log(alunos);
+const novosAlunos = ['Pedro', 'Carlos', 'Paula'];
+novosAlunos[0] = 'Sandro';
+novosAlunos[3] = 'Flavia';
+novosAlunos[novosAlunos.length] = 'Washington';
+novosAlunos.push('Aldrefo');
+novosAlunos.unshift('Patricia');
+// novosAlunos.shift();
+// novosAlunos.pop();
+console.log(novosAlunos);
+console.log(novosAlunos instanceof Array);

@@ -1,0 +1,12 @@
+body{
+    font-family: sans-serif;
+    background-color: yellow;
+}
+h1{
+    color: blue;
+    font-size: 35px;
+}
+p{
+    color: brown;
+    font-size: 20px;
+}
