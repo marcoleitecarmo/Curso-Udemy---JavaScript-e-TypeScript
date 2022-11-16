@@ -1,3 +1,4 @@
+// Exercício 
 const nome = 'Luiz Otávio';
 const sobrenome = 'Miranda';
 const idade = 39
