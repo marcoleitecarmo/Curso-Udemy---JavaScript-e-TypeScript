@@ -1,10 +1,10 @@
-let nome = 'João'; // Variavel String
+let nome1 = 'João'; // Variavel String
 
-console.log(nome, 'nasceu em 1984.');
+console.log(nome1, 'nasceu em 1984.');
 
-nome = 'Paulo';
-console.log(nome);
+nome1 = 'Paulo';
+console.log(nome1);
 
-nome = 'Otavio';
+nome1 = 'Otavio';
 
-console.log(nome)
+console.log(nome1)
