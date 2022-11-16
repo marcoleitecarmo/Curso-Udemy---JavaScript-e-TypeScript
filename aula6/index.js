@@ -8,12 +8,12 @@ const segundoNumero = 10;
 const resultado = primeiroNumero * segundoNumero;
 const resuladoDuplicado = resultado * 2;
 
-let resultadoTriplicado = resultado * 3
-resultadoTriplicado = resultadoTriplicado + 5
+let resultadoTriplicados = resultado * 3
+resultadoTriplicados = resultadoTriplicados + 5
 
 
 console.log(primeiroNumero);
 console.log(segundoNumero);
 console.log(resultado);
 console.log(resuladoDuplicado);
-console.log(resultadoTriplicado);
+console.log(resultadoTriplicados);
