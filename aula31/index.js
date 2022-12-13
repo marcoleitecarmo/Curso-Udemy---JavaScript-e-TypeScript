@@ -33,5 +33,5 @@ const verdadeira = true;
 
 // falaOi();
 
-let sobrenome = 'Miranda';
+let sobrenome = 'Paula';
 console.log(sobrenome);
