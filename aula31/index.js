@@ -23,8 +23,8 @@ const verdadeira = true;
 // function falaOi () {
 
 //   if (verdadeira) {
-//     let nome = 'Luiz';
-//     var sobrenome = 'Miranda';
+//     let nome = 'Marco';
+//     var sobrenome = 'Antonio';
 //   }
 
 //   console.log(sobrenome);
